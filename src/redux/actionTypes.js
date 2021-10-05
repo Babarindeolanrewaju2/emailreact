@@ -1,0 +1,7 @@
+/* SURVEY LIST APP*/
+export const SELECT_MAIL = "SELECT_MAIL";
+export const SET_STARRED = "SET_STARRED";
+export const SELECT_ALL_MAILS = "SELECT_ALL_MAILS";
+export const DELETE_MAIL = "DELETE_MAIL";
+export const FILTER_MAIL_FOLDER = "FILTER_MAIL_FOLDER";
+export const SEARCH_MAIL = "SEARCH_MAIL"
